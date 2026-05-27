@@ -44,4 +44,6 @@ sell (or halve allocation) when it drops below EMA 10
 It's designed to sidestep Tech Mahindra's high volatility identified earlier (36.52%).
 
 
+** All detailed explanation is available in PowerPoint Presentation.
+
 
