@@ -25,12 +25,12 @@ d) Drawdown Analysis
 
 ### Key Findings
 
-HCL Tech and Infosys offered the best risk-adjusted journey — strong returns with the smoothest, most consistent growth path and lowest volatility even in big market crashes
-OFSS Breakout (2023-2024) –  delivered the highest absolute returns of the group with a dramatic breakout (slide 4), while maintaining mid-range volatility
+- HCL Tech and Infosys offered the best risk-adjusted journey — strong returns with the smoothest, most consistent growth path and lowest volatility even in big market crashes
+- OFSS Breakout (2023-2024) –  delivered the highest absolute returns of the group with a dramatic breakout (slide 4), while maintaining mid-range volatility
                           —  quietly outperforming the larger IT stocks. Its moderate correlation with all 4 stocks and manageable drawdown profile make it relatively stable for 
                              investors looking beyond the usual large-cap IT bets.
-Tech Mahindra's high volatility is a double-edged sword — it had explosive rallies (2023–2024) but equally sharp declines , 
-reinforcing why the EMA 10 strategy from slide 8 was proposed specifically for this stock.
+- Tech Mahindra's high volatility is a double-edged sword — it had explosive rallies (2023–2024) but equally sharp declines , 
+  reinforcing why the EMA 10 strategy from slide 8 was proposed specifically for this stock.
 
 
 ### Recommended Strategy
